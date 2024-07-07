@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Software Engg Lab");
         System.out.println("Software Engg Lab on Github");
         System.out.println("Changes in branch b1");
+        System.out.println("Changes in branch b2");
     }
 }
